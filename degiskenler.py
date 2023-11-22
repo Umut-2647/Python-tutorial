@@ -7,4 +7,8 @@ vergi =0.27
 
 print(maasumut-(maasumut*vergi))
 print(maasyasin-(maasyasin*vergi))
-print("selam")
+
+
+# Değişken tanımlama kuralları
+
+x,y,name,isStudent=(20,5.4,"Umut",True)
