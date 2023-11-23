@@ -12,3 +12,12 @@ print(maasyasin-(maasyasin*vergi))
 # Değişken tanımlama kuralları
 
 x,y,name,isStudent=(20,5.4,"Umut",True)
+
+
+# değişken tanımlama örnek
+
+musteriAdi="Umut"
+musteriSoyadi="Yildiz"
+musteriAd_soyad=musteriAdi+ " " +musteriSoyadi
+musteriCinsiyet="Erkek"
+musteriTc_kimlik="54546211351"
