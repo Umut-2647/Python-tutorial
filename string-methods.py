@@ -1,4 +1,4 @@
-message=" Hello there. My name is Umut Yildiz "
+message="Hello there. My name is Umut Yildiz"
 
 # message=message.upper() #bütün harfleri büyük yapar
 # message=message.lower() #bütün harfleri küçük yapar
